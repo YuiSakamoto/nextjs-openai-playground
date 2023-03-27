@@ -1,4 +1,3 @@
-// useOpenAI.ts
 import { useState } from "react";
 import { Configuration, OpenAIApi } from "openai";
 
